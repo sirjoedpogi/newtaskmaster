@@ -1,0 +1,29 @@
+task_id,task_name,task_project,task_details,task_maker,task_doer,task_start_date,task_deadline,task_time_left,task_finished_proof,task_priority,task_status,task_proof_date,task_accomp_date
+1,Design logo,Marketing,Design a new logo for the company,Joed,Lalaine,01/03/2022 9:00,10/03/2022 17:00,192,https://www.youtube.com/watch?v=tvFzyqISj9Q,High,accomplished,,
+2,Write blog post,Content,Write a blog post about the latest product release,Rose,Kay,02/03/2022 14:30,09/03/2022 23:59,175,,Medium,on-going,,
+3,Create slideshow,Marketing,Create a slideshow for the upcoming presentation,Angie,Rose,05/03/2022 11:45,11/03/2022 12:00,146,,Low,on-going,,
+4,Develop feature,Engineering,Develop a new feature for the app,Harold,Joshua,07/03/2022 8:15,16/03/2022 18:00,225,,High,on-going,,
+5,Review content,Content,Review and edit the latest blog post,Maynard,Lalaine,10/03/2022 10:00,13/03/2022 14:30,76,https://www.youtube.com/watch?v=G9omKZFYnAg,Medium,proof-sent,,
+6,Test website,Engineering,Test the website for bugs and issues,Jeffrey,Nes,12/03/2022 13:45,15/03/2022 17:00,76,,Low,on-going,,
+7,Create landing page,Marketing,Create a landing page for the new campaign,Joed,Rosalie,14/03/2022 9:00,19/03/2022 23:59,133,,High,on-going,,
+8,Design brochure,Design,Design a brochure for the upcoming event,Kay,Rose,16/03/2022 14:30,23/03/2022 12:00,164,,Medium,on-going,,
+9,Write product description,Content,Write a description for the new product launch,Rose,Kay,18/03/2022 11:45,22/03/2022 18:00,102,,Low,on-going,,
+10,Fix bugs,Engineering,Fix bugs and issues on the website,Harold,Joshua,20/03/2022 8:15,27/03/2022 23:59,187,,High,on-going,,
+11,Edit video,Marketing,Edit a video for the new ad campaign,Nes,Rosalie,22/03/2022 10:00,25/03/2022 14:30,76,,Medium,on-going,,
+12,Develop API,Engineering,Develop an API for the new feature,Maynard,Jeffrey,24/03/2022 13:45,31/03/2022 17:00,178,,Low,on-going,,
+13,Create infographic,Design,Create an infographic for the latest report,Joed,Lalaine,26/03/2022 9:00,29/03/2022 12:00,67,https://www.youtube.com/watch?v=QZZceXapiuo,High,proof-sent,2023-03-12 22:37:45.278841,
+14,,,,,,12/03/2023,12/03/2023,0,,High,on-going,,
+15,,,,,,12/03/2023,12/03/2023,0,,High,on-going,,
+16,,,,,,12/03/2023,12/03/2023,0,,High,on-going,,
+17,,,,,,12/03/2023,12/03/2023,0,,High,on-going,,
+18,,,,Joed,,12/03/2023,12/03/2023,0,,High,on-going,,
+19,Shopping,,,Joed,,12/03/2023,12/03/2023,0,,High,on-going,,
+20,Shopping,Buy supply for tommorows meeting,,Joed,,12/03/2023,12/03/2023,0,,High,on-going,,
+21,Shopping,Buy supply for tommorows meeting,Go to ongto to buy snack for tommorow meeting,Joed,,12/03/2023,12/03/2023,0,,High,on-going,,
+22,Shopping,Buy supply for tommorows meeting,Go to ongto to buy snack for tommorow meeting,Joed,Lalaine,12/03/2023,12/03/2023,0,https://www.youtube.com/watch?v=bozXCEtutBo,High,accomplished,2023-03-12 23:03:40.905140,2023-03-12 23:14:47.942680
+23,Shopping,Buy supply for tommorows meeting,Go to ongto to buy snack for tommorow meeting,Joed,Lalaine,12/03/2023,12/03/2023,0,https://www.youtube.com/watch?v=Xg871GqMZN8,High,accomplished,2023-03-12 23:22:49.735844,2023-03-13 12:46:02.467748
+24,Bidding,Alpha,Attend Bid,Joed,Lalaine,15/03/2023,18/03/2023,72,https://pandas.pydata.org/docs/reference/api/pandas.Timestamp.html,High,proof-sent,2023-03-12 22:53:03.549285,
+25,Attend Meeting,None,Attend meeting cqams,Lalaine,Joed,22/03/2023,31/03/2023,216,,Medium,on-going,,
+26,Attend PPFMS meeting,Project Alpha,Attend PPFMS meeting,Joed,Lalaine,12/03/2023,12/03/2023,0,https://www.youtube.com/watch?v=DKl5X4n0biA,High,accomplished,2023-03-12 23:06:30.251426,2023-03-13 12:41:52.568985
+27,Go to HR,None,Go to HR and retrieve DTR,Joed,Kay,2023-03-13 12:57:28.077104,2023-03-13 13:30:00,0,,High,on-going,,
+28,Create Letter,CSPC Cafe and Restaurant,"Create a letter for survey with the following signatories, VP AA, VP AF VP REPED etc. ",Joed,Kay,2023-03-13 13:19:15.261307,2023-03-13 13:19:00,-24,https://docs.streamlit.io/library/api-reference/widgets/st.date_input,High,accomplished,2023-03-13 13:21:03.215137,2023-03-13 13:22:14.969613
